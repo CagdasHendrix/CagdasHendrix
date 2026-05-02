@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.prod.website-files.com/5f20331d4ad569356b4ff764/67321d25881386c295f24298_Short.gif)
 
-<h1 align="center">Hi 👋, I'm Çağdaş</h1>
+<h1 align="center">Welcome to my profile</h1>
 <h3 align="center">Computer Engineering Student | Aspiring Cybersecurity Engineer | Software Developer</h3>
 
 ---
