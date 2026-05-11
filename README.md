@@ -26,7 +26,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fda%C5%9F-oktay-6304a5367/" target="_blank">
+  <a href="https://www.linkedin.com/in/cagdasoktay/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:cagdasoktay28@gmail.com">
